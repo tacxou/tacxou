@@ -31,3 +31,16 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/tacxou/tacxou/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/tacxou/tacxou/blob/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<hr>
+<!-- @see https://dev.to/envoy_/150-badges-for-github-pnk -->
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E.svg?style=for-the-badge&logo=vue.js&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330.svg?style=for-the-badge&logo=Jest&logoColor=white)
