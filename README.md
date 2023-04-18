@@ -17,9 +17,17 @@
 </p>
 
 ## My stats
+<br>
 <a href="https://github.com/tacxou/tacxou" target="blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tacxou&show_icons=true&theme=dark#gh-dark-mode-only" alt="User stats">
 </a>
 <a href="https://github.com/tacxou/tacxou" target="blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tacxou&hide=php,nginx&layout=compact&theme=dark#gh-dark-mode-only" alt="Most used languages">
 </a>
+
+## My contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tacxou/tacxou/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tacxou/tacxou/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/tacxou/tacxou/blob/output/github-contribution-grid-snake.svg" />
+</picture>
