@@ -1,6 +1,7 @@
 <h1 align="center">Hello world 💛 I'm Tacx</h1>
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6441A5&center=true&width=550&lines=I'm+currently+working+as+Fullstack+Developer" alt="Typing SVG" /></p>
+<p align="center">Passionate about the fusion of code and innovation, I'm a web developer with a focus on open source technologies and Linux infrastructure. As an OSS enthusiast, I actively contribute to open source projects to strengthen the community.</p>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=tacxou&theme=onedark&row=1" alt="tacxou"></p>
 
 <p align="center">
