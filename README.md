@@ -20,7 +20,7 @@
 ## My stats
 <br>
 <a href="https://github.com/tacxou/tacxou" target="blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tacxou&show_icons=true&theme=dark#gh-dark-mode-only" alt="User stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tacxou&show_icons=true&theme=dark#gh-dark-mode-only" alt="My User stats">
 </a>
 <a href="https://github.com/tacxou/tacxou" target="blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tacxou&hide=php,nginx&layout=compact&theme=dark#gh-dark-mode-only" alt="Most used languages">
