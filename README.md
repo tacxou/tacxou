@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.ficsys.fr"><img src="https://img.shields.io/badge/FicSys-0D9488?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="FicSys"></a>
+  <a href="https://www.ficsys.fr"><img src="https://raw.githubusercontent.com/tacxou/tacxou/main/assets/badges/ficsys.svg" alt="FicSys"></a>
   <a href="https://github.com/FicSysFR"><img src="https://img.shields.io/badge/FicSysFR-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="FicSysFR"></a>
   <a href="https://www.linkedin.com/in/clement-glay/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:contact@ficsys.fr"><img src="https://img.shields.io/badge/Let's%20talk-45556C?style=flat-square&amp;logo=maildotru&amp;logoColor=white" alt="Let's talk"></a>
@@ -17,7 +17,9 @@
 
 <p align="center">
   <a href="https://github.com/tacxou?tab=followers"><img src="https://img.shields.io/github/followers/tacxou?label=Followers&amp;style=flat-square&amp;color=0d9488" alt="Followers"></a>
-  <img src="https://komarev.com/ghpvc/?username=tacxou&amp;label=Profile%20views&amp;color=0d9488&amp;style=flat-square" alt="Profile views">
+  <img src="https://raw.githubusercontent.com/tacxou/tacxou/main/assets/badges/profile-views-en.svg" alt="Approximate profile views, refreshed daily">
+  <!-- The visible badge is cached; this supported pixel keeps the counter active. -->
+  <img src="https://komarev.com/ghpvc/?username=tacxou&amp;style=pixel" width="1" height="1" alt="">
 </p>
 
 ## GitHub trophies
@@ -41,16 +43,18 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=tacxou&amp;locale=en&amp;hide_border=true&amp;border_radius=12&amp;disable_animations=true&amp;show_icons=true&amp;theme=github_dark&amp;title_color=66e0cb&amp;icon_color=66e0cb">
-    <img width="460" src="https://github-stats-extended.vercel.app/api?username=tacxou&amp;locale=en&amp;hide_border=true&amp;border_radius=12&amp;disable_animations=true&amp;show_icons=true&amp;theme=default&amp;title_color=087f6d&amp;icon_color=087f6d" alt="Clément's GitHub statistics: stars, commits, pull requests and issues">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tacxou/tacxou/main/assets/stats/stats-en-dark.svg">
+    <img width="460" src="https://raw.githubusercontent.com/tacxou/tacxou/main/assets/stats/stats-en-light.svg" alt="Clément's GitHub statistics: stars, commits, pull requests and issues">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=tacxou&amp;locale=en&amp;hide_border=true&amp;border_radius=12&amp;disable_animations=true&amp;layout=compact&amp;langs_count=8&amp;card_width=350&amp;theme=github_dark&amp;title_color=66e0cb">
-    <img width="350" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tacxou&amp;locale=en&amp;hide_border=true&amp;border_radius=12&amp;disable_animations=true&amp;layout=compact&amp;langs_count=8&amp;card_width=350&amp;theme=default&amp;title_color=087f6d" alt="Most used languages in public repositories">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tacxou/tacxou/main/assets/stats/languages-en-dark.svg">
+    <img width="350" src="https://raw.githubusercontent.com/tacxou/tacxou/main/assets/stats/languages-en-light.svg" alt="Languages across personal and organization repositories">
   </picture>
 </p>
 
-<p align="center"><sub>Public GitHub activity; client work and private repositories are not fully reflected here.</sub></p>
+<!-- profile-stats:scope:start -->
+<p align="center"><sub>Public activity across personal and organization repositories. Private repositories are not included; languages reflect repository code volume.</sub></p>
+<!-- profile-stats:scope:end -->
 
 ## My contributions
 

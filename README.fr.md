@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.ficsys.fr"><img src="https://img.shields.io/badge/FicSys-0D9488?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="FicSys"></a>
+  <a href="https://www.ficsys.fr"><img src="https://raw.githubusercontent.com/tacxou/tacxou/main/assets/badges/ficsys.svg" alt="FicSys"></a>
   <a href="https://github.com/FicSysFR"><img src="https://img.shields.io/badge/FicSysFR-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="FicSysFR"></a>
   <a href="https://www.linkedin.com/in/clement-glay/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:contact@ficsys.fr"><img src="https://img.shields.io/badge/Me%20contacter-45556C?style=flat-square&amp;logo=maildotru&amp;logoColor=white" alt="Me contacter"></a>
@@ -17,7 +17,9 @@
 
 <p align="center">
   <a href="https://github.com/tacxou?tab=followers"><img src="https://img.shields.io/github/followers/tacxou?label=Abonn%C3%A9s&amp;style=flat-square&amp;color=0d9488" alt="Abonnés"></a>
-  <img src="https://komarev.com/ghpvc/?username=tacxou&amp;label=Vues%20du%20profil&amp;color=0d9488&amp;style=flat-square" alt="Vues du profil">
+  <img src="https://raw.githubusercontent.com/tacxou/tacxou/main/assets/badges/profile-views-fr.svg" alt="Vues estimées du profil, actualisées chaque jour">
+  <!-- The visible badge is cached; this supported pixel keeps the counter active. -->
+  <img src="https://komarev.com/ghpvc/?username=tacxou&amp;style=pixel" width="1" height="1" alt="">
 </p>
 
 ## Mes trophées GitHub
@@ -41,16 +43,18 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=tacxou&amp;locale=fr&amp;hide_border=true&amp;border_radius=12&amp;disable_animations=true&amp;show_icons=true&amp;theme=github_dark&amp;title_color=66e0cb&amp;icon_color=66e0cb">
-    <img width="460" src="https://github-stats-extended.vercel.app/api?username=tacxou&amp;locale=fr&amp;hide_border=true&amp;border_radius=12&amp;disable_animations=true&amp;show_icons=true&amp;theme=default&amp;title_color=087f6d&amp;icon_color=087f6d" alt="Mes statistiques GitHub : étoiles, commits, pull requests et issues">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tacxou/tacxou/main/assets/stats/stats-fr-dark.svg">
+    <img width="460" src="https://raw.githubusercontent.com/tacxou/tacxou/main/assets/stats/stats-fr-light.svg" alt="Mes statistiques GitHub : étoiles, commits, pull requests et issues">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=tacxou&amp;locale=fr&amp;hide_border=true&amp;border_radius=12&amp;disable_animations=true&amp;layout=compact&amp;langs_count=8&amp;card_width=350&amp;theme=github_dark&amp;title_color=66e0cb">
-    <img width="350" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tacxou&amp;locale=fr&amp;hide_border=true&amp;border_radius=12&amp;disable_animations=true&amp;layout=compact&amp;langs_count=8&amp;card_width=350&amp;theme=default&amp;title_color=087f6d" alt="Langages les plus utilisés dans mes dépôts publics">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tacxou/tacxou/main/assets/stats/languages-fr-dark.svg">
+    <img width="350" src="https://raw.githubusercontent.com/tacxou/tacxou/main/assets/stats/languages-fr-light.svg" alt="Langages de mes dépôts personnels et en organisation">
   </picture>
 </p>
 
-<p align="center"><sub>Activité GitHub publique ; les projets clients et les dépôts privés ne sont pas entièrement représentés ici.</sub></p>
+<!-- profile-stats:scope:start -->
+<p align="center"><sub>Activité publique personnelle et en organisation. Les dépôts privés ne sont pas inclus ; les langages reflètent le volume de code des dépôts.</sub></p>
+<!-- profile-stats:scope:end -->
 
 ## Mes contributions
 

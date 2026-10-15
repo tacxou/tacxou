@@ -1,0 +1,13 @@
+{
+  "name": "tacxou-profile",
+  "private": true,
+  "type": "module",
+  "engines": { "node": "24.x" },
+  "scripts": {
+    "stats": "node scripts/update_stats.mjs",
+    "test": "node --test scripts/update_stats.test.mjs"
+  },
+  "dependencies": {
+    "@stats-organization/github-readme-stats-core": "2.2.1"
+  }
+}

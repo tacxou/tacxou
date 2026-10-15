@@ -1,0 +1,41 @@
+name: Update profile view badges
+
+on:
+  schedule:
+    - cron: "53 5 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/profile-views.yml"
+      - "scripts/update_profile_views.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-view-badges
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout profile
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+
+      - name: Refresh the last-good counter images
+        run: python3 scripts/update_profile_views.py
+
+      - name: Publish refreshed badges
+        run: |
+          git add assets/badges/profile-views-*.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh profile view badges"
+          git pull --rebase origin main
+          git push
