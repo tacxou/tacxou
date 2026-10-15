@@ -1,51 +1,55 @@
-<h1 align="center">Hello world 💛 I'm Tacx</h1>
-
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6441A5&center=true&width=550&lines=I'm+currently+working+as+Fullstack+Developer" alt="Typing SVG" /></p>
-<p align="center">Passionate about the fusion of code and innovation, I'm a web developer with a focus on open source technologies and Linux infrastructure. As an OSS enthusiast, I actively contribute to open source projects to strengthen the community.</p>
-<p align="center"><img src="https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=tacxou&theme=onedark&row=1" alt="tacxou"></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tacxou&label=Profile%20views&color=6441a5&style=flat" alt="tacxou">
-  <br>
-  <a href="https://twitch.tv/tacxtv" target="blank"><img src="https://img.shields.io/twitch/status/tacxtv?style=social&logo=twitch" alt="twitch"></a>
-  <a href="https://github.com/tacxou" target="blank"><img src="https://img.shields.io/github/followers/tacxou?style=social" alt="github"></a>
-  <a href="https://www.youtube.com/@tacxtv" target="blank"><img src="https://img.shields.io/youtube/channel/views/UCF1aiSEX1-dM6oAnNhpyB0Q?style=social" alt="youtube"></a>
-  <br>
-  <a href="https://twitter.com/tacxtv" target="blank"><img src="https://img.shields.io/twitter/follow/tacxtv?style=social&logo=twitter" alt="twitter"/></a>
-  <a href="https://instagram.com/tacxtv" target="blank"><img src="https://img.shields.io/twitter/follow/tacxtv?style=social&logo=instagram" alt="instagram"></a>
-  <a href="https://www.tiktok.com/@tacxtv" target="blank"><img src="https://img.shields.io/twitter/follow/tacxtv?style=social&logo=tiktok" alt="tiktok"></a>
-  <a href="https://discord.gg/NURBhQhY3f" target="blank"><img src="https://img.shields.io/discord/824189401730252820?style=flat&label=Discord&color=%23F0F0F0&logo=discord&logoColor=white" alt="discord"></a>
+<p align="right">
+  <strong>English</strong> · <a href="https://github.com/tacxou/tacxou/blob/main/README.fr.md" lang="fr">Français</a>
 </p>
 
-## My stats
-<br>
-<a href="https://github.com/tacxou/tacxou" target="blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tacxou&show_icons=true&theme=dark#gh-dark-mode-only" alt="My User stats">
-</a>
-<a href="https://github.com/tacxou/tacxou" target="blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tacxou&hide=php,nginx&layout=compact&theme=dark#gh-dark-mode-only" alt="Most used languages">
+<a href="https://www.ficsys.fr">
+  <img src="https://raw.githubusercontent.com/tacxou/tacxou/main/assets/header-en.svg" width="100%" alt="FicSys — Software. Systems. Open source.">
 </a>
 
-## My contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tacxou/tacxou/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tacxou/tacxou/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/tacxou/tacxou/blob/output/github-contribution-grid-snake.svg" />
-</picture>
+# Clément Glay
 
-<hr>
-<!-- @see https://dev.to/envoy_/150-badges-for-github-pnk -->
+**Founder of FicSys · Software engineer**
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=Node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-3776AB.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E.svg?style=for-the-badge&logo=vue.js&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-323330.svg?style=for-the-badge&logo=Jest&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
+I help businesses turn their needs into useful, maintainable software. Through **[FicSys](https://www.ficsys.fr)**, I combine technical consulting with hands-on development, from the first requirements to deployment and ongoing maintenance.
+
+My work spans **business applications, SaaS products, e-commerce and infrastructure**, with a strong interest in security and open source.
+
+Based in **Grand Est, France** · French & English
+
+[FicSys](https://www.ficsys.fr) · [LinkedIn](https://www.linkedin.com/in/clement-glay/) · [Email](mailto:contact@ficsys.fr) · [FicSys on GitHub](https://github.com/FicSysFR)
+
+## What I do
+
+- **Build business software** — custom web applications, internal tools, customer portals and SaaS products.
+- **Connect systems** — APIs, third-party integrations, workflow automation and e-commerce platforms.
+- **Run and secure applications** — Linux infrastructure, containers, CI/CD, authentication, monitoring and backups.
+- **Help teams make technical decisions** — architecture, code reviews, technical guidance and training.
+
+I care about understanding the business, making clear technical choices and leaving software that people can maintain.
+
+## Selected open source work
+
+I build and maintain reusable tools under **[FicSysFR](https://github.com/FicSysFR)**.
+
+| Project | What it does |
+| :--- | :--- |
+| **[JSON Forms Builder](https://github.com/FicSysFR/jsonforms_builder)** | JSON Forms renderers and a visual form builder for Vue, Nuxt UI and Tailwind CSS. |
+| **[Factorydrive for NestJS](https://github.com/FicSysFR/nestjs_module_factorydrive)** | A unified storage API with local, S3 and SFTP drivers, keeping application code independent of the storage provider. |
+| **[Factorydrive for Vendure](https://github.com/FicSysFR/vendure_plugin_factorydrive)** | Connects Vendure asset storage to Factorydrive while retaining Vendure's asset serving and image processing. |
+
+I'm also working on **AI-assisted development tooling**, including reusable agent workflows, documentation and MCP integrations.
+
+## My everyday stack
+
+| Area | Technologies |
+| :--- | :--- |
+| **Backend** | TypeScript, Node.js, NestJS |
+| **Frontend** | Vue, Nuxt, Nuxt UI, Tailwind CSS |
+| **Data & jobs** | PostgreSQL, TypeORM, MongoDB, Redis, BullMQ |
+| **Infrastructure** | Linux, Docker, GitHub Actions, S3-compatible storage |
+
+## Let's talk
+
+Building a product, modernizing an application or connecting existing systems? **[Get in touch](mailto:contact@ficsys.fr)** to discuss your project.
+
+For questions or contributions related to an open source project, please use its GitHub issues or pull requests.

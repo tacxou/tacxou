@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">FicSys — Logiciels. Systèmes. Open source.</title>
+  <desc id="desc">Une bannière bleu nuit aux accents turquoise et une structure abstraite connectée.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101D2D"/>
+      <stop offset="1" stop-color="#122C37"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="845" y1="55" x2="1130" y2="225" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#66E0CB"/>
+      <stop offset="1" stop-color="#499DB3"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#B7D6E0" opacity=".12"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="278" rx="18" fill="url(#background)" stroke="#314957" stroke-width="2"/>
+  <path d="M20 1H1180" stroke="#66E0CB" stroke-opacity=".5" stroke-width="2"/>
+  <rect x="785" y="24" width="384" height="232" fill="url(#grid)"/>
+  <rect x="50" y="45" width="30" height="3" rx="1.5" fill="#66E0CB"/>
+  <text x="94" y="53" fill="#B8D0DA" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="3">CONCEVOIR · DÉVELOPPER · EXPLOITER</text>
+  <text x="48" y="148" fill="#F4F8FA" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">Fic<tspan fill="#66E0CB">Sys</tspan></text>
+  <text x="51" y="206" fill="#CADAE2" font-family="Arial, Helvetica, sans-serif" font-size="29">Logiciels. Systèmes. Open source.</text>
+  <g stroke="url(#accent)" stroke-width="2">
+    <path d="M894 83H1042V137H1115M894 195H1042V137M832 139H935" opacity=".55"/>
+    <rect x="834" y="54" width="60" height="58" rx="13" fill="#17333E"/>
+    <rect x="834" y="166" width="60" height="58" rx="13" fill="#17333E"/>
+    <rect x="977" y="108" width="65" height="58" rx="13" fill="#21444B"/>
+    <circle cx="1115" cy="137" r="12" fill="#66E0CB" stroke="none"/>
+    <path d="m854 73-10 10 10 10m20-20 10 10-10 10M851 185h26m-26 10h26m-26 10h16M993 126h33m-33 10h33m-33 10h20" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="823" cy="139" r="6" fill="#122B37"/>
+  </g>
+</svg>
