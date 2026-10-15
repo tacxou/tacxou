@@ -78,14 +78,6 @@
 
 <p align="center">Également : Nuxt UI, Tailwind CSS, TypeORM, MongoDB, BullMQ et GitHub Actions.</p>
 
-## L'open source chez FicSys
-
-| Projet | Ce que je développe |
-| :--- | :--- |
-| **[JSON Forms Builder](https://github.com/FicSysFR/jsonforms_builder)** | Des composants de rendu JSON Forms et un éditeur visuel pour Vue, Nuxt UI et Tailwind CSS. |
-| **[Factorydrive · NestJS](https://github.com/FicSysFR/nestjs_module_factorydrive)** | Une API de stockage unifiée pour les fichiers locaux, S3 et SFTP. |
-| **[Factorydrive · Vendure](https://github.com/FicSysFR/vendure_plugin_factorydrive)** | L’intégration du stockage Factorydrive aux fichiers de Vendure. |
-
 ---
 
 <p align="center">
