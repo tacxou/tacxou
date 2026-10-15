@@ -20,6 +20,23 @@
   <img src="https://komarev.com/ghpvc/?username=tacxou&amp;label=Profile%20views&amp;color=0d9488&amp;style=flat-square" alt="Profile views">
 </p>
 
+## GitHub trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tacxou/tacxou/main/assets/trophies-activity-dark.svg">
+      <img width="350" src="https://raw.githubusercontent.com/tacxou/tacxou/main/assets/trophies-activity-light.svg" alt="GitHub trophies : commits, issues and pull requests">
+    </picture>
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tacxou/tacxou/main/assets/trophies-community-dark.svg">
+      <img width="350" src="https://raw.githubusercontent.com/tacxou/tacxou/main/assets/trophies-community-light.svg" alt="GitHub trophies : followers, repositories and stars">
+    </picture>
+  </a>
+</p>
+
 ## GitHub in numbers
 
 <p align="center">

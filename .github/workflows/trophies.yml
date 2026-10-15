@@ -1,0 +1,40 @@
+name: Update profile trophies
+
+on:
+  schedule:
+    - cron: "23 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/trophies.yml"
+      - "scripts/update_trophies.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-trophies
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout profile
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+
+      - name: Generate and validate trophy images
+        run: python3 scripts/update_trophies.py
+
+      - name: Publish updated images
+        run: |
+          git add assets/trophies-*.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh profile trophies"
+          git push
