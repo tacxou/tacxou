@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Statistiques GitHub de Tacxou, Rank: B+</title>
-        <desc id="descId">Total d&#39;&#233;toiles: 12, Total des Commits  : 2434, Total des PRs: 90, Nombre total d&#39;incidents: 118, Contribu&#233; &#224; (l&#39;ann&#233;e derni&#232;re): 29</desc>
+        <desc id="descId">Total d&#39;&#233;toiles: 12, Total des Commits  : 2459, Total des PRs: 92, Nombre total d&#39;incidents: 118, Contribu&#233; &#224; (l&#39;ann&#233;e derni&#232;re): 29</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 121.07889552791221;
+        stroke-dashoffset: 120.28610259531305;
       }
     }
   
@@ -184,7 +184,7 @@
         x="269.01"
         y="12.5"
         data-testid="commits"
-      >2434</text>
+      >2459</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="269.01"
         y="12.5"
         data-testid="prs"
-      >90</text>
+      >92</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
